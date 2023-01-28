@@ -49,3 +49,19 @@ ul.posts li {
 .portrait {
     height: auto;
 }
+
+.resumeButton {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+.resumeButton:hover {
+    background-color: white;
+    color: #4CAF50;
+}
