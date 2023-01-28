@@ -13,7 +13,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 nav ul li:hover, footer ul li:hover {
-    background-color: rgb(138, 181, 209);
+    background-color: rgb(206, 235, 255);
     color: white;
 }
 a {
@@ -75,4 +75,5 @@ ul.posts li {
 .resumeButton:hover {
     background-color: white;
     color: rgb(53, 147, 254);
+    border: 2px solid rgb(53, 147, 254);
 }
