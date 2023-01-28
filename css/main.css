@@ -50,8 +50,18 @@ ul.posts li {
     height: auto;
 }
 
+.resumeButtonText{
+    text-decoration: none;
+    color: white;
+}
+.resumeButtonText:hover{
+    text-decoration: none;
+    color: rgb(53, 147, 254);
+}
+
+
 .resumeButton {
-    background-color: #4CAF50;
+    background-color: rgb(53, 147, 254);
     border: none;
     color: white;
     padding: 15px 32px;
@@ -63,5 +73,5 @@ ul.posts li {
 }
 .resumeButton:hover {
     background-color: white;
-    color: #4CAF50;
+    color: rgb(53, 147, 254);
 }
