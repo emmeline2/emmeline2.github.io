@@ -13,7 +13,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 nav ul li:hover, footer ul li:hover {
-    background-color: rgb(206, 235, 255);
+    background-color:#CCE1F2;
     color: white;
 }
 a {
@@ -57,12 +57,12 @@ ul.posts li {
 }
 .resumeButtonText:hover{
     text-decoration: none;
-    color: rgb(53, 147, 254);
+    color: #CCE1F2;
 }
 
 
 .resumeButton {
-    background-color: rgb(53, 147, 254);
+    background-color:#CCE1F2 ;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -74,6 +74,6 @@ ul.posts li {
 }
 .resumeButton:hover {
     background-color: white;
-    color: rgb(53, 147, 254);
-    border: 2px solid rgb(53, 147, 254);
+    color: #CCE1F2;
+    border: 2px solid #CCE1F2);
 }
