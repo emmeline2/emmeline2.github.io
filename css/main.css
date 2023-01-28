@@ -48,6 +48,7 @@ ul.posts li {
 
 .portrait {
     height: auto;
+    max-width: 100%;
 }
 
 .resumeButtonText{
