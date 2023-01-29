@@ -88,7 +88,7 @@ footer {
 
 .resumeButton {
     background-color: None;
-    border: 1px solid #14e0eb;;
+    border: 1px solid #14e0eb;
     padding: 10px 30px;
     text-align: center;
     display: inline-block;
@@ -99,6 +99,6 @@ footer {
 .resumeButton:hover {
     background-color: #14e0eb3b;
     color: black;
-    border: none;
+    border: 1px solid #14e0eb;
 }
 
