@@ -53,6 +53,7 @@ footer {
 .portrait {
     height: auto;
     max-width: 30%;
+    display: inline-block;
 }
 
 .resumeBttnTxt{
