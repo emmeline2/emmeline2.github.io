@@ -105,8 +105,11 @@ footer {
 }
 
 .intro{
-    margin: 15%;
-    text-align: left;
+    margin-top: 10%;
+    margin-bottom: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
 }
 
 .backgroundSection{
