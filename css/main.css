@@ -8,7 +8,7 @@ body {
 header{
     margin-top: 0;
     background-color: #020131;
-    color: #b08f26;
+    border-bottom: 1px solid #b08f26;
 }
 
 nav ul, footer ul {
@@ -48,7 +48,7 @@ footer {
     background-color: #020131;
     font-size: .8em;
     color: white;
-    border-top: 1px solid #b08f26
+    border-top: 1px solid #b08f26;
 }
 
 .portrait {
