@@ -12,11 +12,7 @@ header{
     background-color: #020131;
 }
 
-.topnav-right {
-    float: right;
-    border: 1px solid #b08f26;
-    padding: 5px;
-}
+
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -39,6 +35,11 @@ a {
 a:hover {
     text-decoration: underline;
     color: #14e0eb;
+}
+.topnav-right {
+    float: right;
+    border: 1px solid #b08f26;
+    padding: 4px;
 }
 h1 {
     font-size: 3em;
