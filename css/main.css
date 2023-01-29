@@ -5,7 +5,7 @@ body {
     color: white;
     min-height: 100vh;
     position: relative;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: Apercu,"Source Sans Pro",system,system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;
 }
 
 header{
@@ -20,7 +20,6 @@ a:hover {
     color: #14e0eb3b;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -48,7 +47,6 @@ nav ul li:hover, footer ul li:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: white;
     text-align: center;
 }
