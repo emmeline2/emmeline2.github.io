@@ -1,10 +1,9 @@
 body {
-    background-color: #B0E0E6;
-    margin: 0;
-    padding: 0;
+    background-color: white;
 }
 
 header{
+    margin-top: 0;
     background-color: white;
 }
 
@@ -33,6 +32,8 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #DF744A;
+    background-color: #B0E0E6;
+    text-align: center;
 }
 p {
     font-size: 1.5em;
