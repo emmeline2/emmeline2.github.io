@@ -54,20 +54,10 @@ footer {
     max-width: 30%;
 }
 
-.resumeButtonText{
-    text-decoration: none;
-    color: white;
-}
-.resumeButtonText:hover{
-    text-decoration: none;
-    color: #BFD8D2;
-}
-
-
 .resumeButton {
-    background-color:#BFD8D2 ;
+    background-color: white;
     border: none;
-    color: white;
+    color: black;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -76,8 +66,8 @@ footer {
     transition-duration: 0.4s;
 }
 .resumeButton:hover {
-    background-color: white;
-    color: #BFD8D2;
-    border: 2px solid #BFD8D2;
+    background-color: #DCB239;
+    color: black;
+    border: none;
 }
 
