@@ -41,6 +41,10 @@ a:hover {
     border: 1px solid #b08f26;
     padding: 4px;
 }
+.topnav-right:hover{
+    background-color: white;
+}
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
