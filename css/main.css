@@ -30,7 +30,6 @@ nav ul li, footer ul li {
 }
 nav ul li:hover, footer ul li:hover {
     text-decoration: none;
-    background-color: #14e0eb3b;
     color: white;
 }
 .topnav-right{
