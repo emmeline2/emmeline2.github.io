@@ -74,8 +74,8 @@ footer {
 .portrait {
     height: auto;
     max-width: 30%;
-    float: right;    
-    margin: 30px 15px 0 15px;
+    float: left;    
+    margin: 0px 20px 0 10px;
     border-radius: 4px;
 }
 
@@ -109,15 +109,15 @@ footer {
 }
 
 .leftCol {
-width: 25%;
 float: left;
 display: table-cell;
+width: 25%;
 }
 
 .rightCol, .rightCol p {
-width: 75%;
 float: right;
 display: table-cell;
+width: 75%;
 }
   
 @media only screen and (max-width: 800px) {
