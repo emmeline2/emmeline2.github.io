@@ -5,6 +5,7 @@ body {
     color: white;
     min-height: 100vh;
     position: relative;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 header{
