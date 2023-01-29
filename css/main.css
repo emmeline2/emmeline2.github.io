@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #BFD8D2;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -12,8 +13,12 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+footer ul li {
+    color: #DF744A;
+    background-color: #FEDCD2;
+}
 nav ul li:hover, footer ul li:hover {
-    background-color:#CCE1F2;
+    background-color:#BFD8D2;
     color: white;
 }
 a {
@@ -26,6 +31,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #DF744A;
 }
 p {
     font-size: 1.5em;
@@ -33,7 +39,8 @@ p {
     color: #333;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #DF744A;
+    background-color: #FEDCD2;
     font-size: .8em;
 }
 
@@ -57,12 +64,12 @@ ul.posts li {
 }
 .resumeButtonText:hover{
     text-decoration: none;
-    color: #CCE1F2;
+    color: #BFD8D2;
 }
 
 
 .resumeButton {
-    background-color:#CCE1F2 ;
+    background-color:#BFD8D2 ;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -74,6 +81,7 @@ ul.posts li {
 }
 .resumeButton:hover {
     background-color: white;
-    color: #CCE1F2;
-    border: 2px solid #CCE1F2;
+    color: #BFD8D2;
+    border: 2px solid #BFD8D2;
 }
+
