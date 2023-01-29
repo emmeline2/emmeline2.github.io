@@ -42,7 +42,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: darkslategrey;
+    color: white;
 }
 footer {
     background-color: #002480;
@@ -56,9 +56,9 @@ footer {
 }
 
 .resumeButton {
-    background-color: white;
+    background-color: #002480;
     border: none;
-    color: darkslategrey;
+    color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -67,8 +67,8 @@ footer {
     transition-duration: 0.4s;
 }
 .resumeButton:hover {
-    background-color: #DCB239;
-    color: darkslategrey;
+    background-color: #002480;
+    color: 14e0eb;
     border: none;
 }
 
