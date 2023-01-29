@@ -51,9 +51,10 @@ h1 {
     text-align: center;
 }
 p {
-    font-size: 1.5em;
     line-height: 1.4em;
     color: white;
+    font-weight: 300;
+    font-size: 1rem;
 }
 
 .container{
@@ -97,6 +98,31 @@ footer {
     color: black;
     border: 1px solid #14e0eb;
 }
+
+.background{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.column {
+    float: left;
+    padding: 10px;
+  }
+  
+  .left {
+    width: 25%;
+  }
+  
+  .right {
+    width: 75%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
 .section{
     margin-top: 10%;
