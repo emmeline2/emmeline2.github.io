@@ -16,7 +16,7 @@ a {
     color: #14e0eb;
 }
 a:hover {
-    text-decoration: underline;
+    background-color: #14e0eb3b;
     color: #14e0eb;
 }
 nav ul, footer ul {
