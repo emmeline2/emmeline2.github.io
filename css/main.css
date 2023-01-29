@@ -20,7 +20,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 nav ul li:hover, footer ul li:hover {
-    background-color:#B0E0E6;
+    background-color:#d5eee7;
     color: white;
 }
 a {
@@ -34,7 +34,7 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #DF744A;
-    background-color: #B0E0E6;
+    background-color: #d5eee7;
     text-align: center;
 }
 p {
