@@ -31,8 +31,8 @@ a {
     color: #14e0eb;
 }
 a:hover {
-    text-decoration: underline;
     color: #14e0eb;
+    background-color: #14e0eb3b;
 }
 .topnav-right{
     float: right;
