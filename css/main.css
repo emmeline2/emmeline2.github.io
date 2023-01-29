@@ -42,7 +42,7 @@ a:hover {
     padding: 4px;
 }
 .topnav-right:hover{
-    background-color: white;
+    background-color: #B19CD8;
 }
 
 h1 {
@@ -91,7 +91,7 @@ footer {
     transition-duration: 0.4s;
 }
 .resumeButton:hover {
-    background-color: #ffffff;
+    background-color: #B19CD8;
     color: black;
     border: none;
 }
