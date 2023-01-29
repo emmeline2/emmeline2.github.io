@@ -105,7 +105,7 @@ footer {
 }
 
 .intro{
-    margin: auto; /*center*/
+    text-align: center; /*center*/
 }
 
 .backgroundSection{
