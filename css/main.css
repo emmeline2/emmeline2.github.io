@@ -80,23 +80,22 @@ footer {
     margin: 0 30px 0 30px;
 }
 
-.resumeBttnTxt{
-    color: black;
+.resumeBttnTxt, .resumeBttnTxt:hover{
+    color: #14e0eb;
+    text-decoration: none;
 }
 
 .resumeButton {
-    background-color: #14e0eb;
-    border: none;
-    color: black;
-    padding: 15px 32px;
+    background-color: None;
+    border: 1px solid #14e0eb;;
+    padding: 10px 30px;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
     font-size: 16px;
     transition-duration: 0.4s;
 }
 .resumeButton:hover {
-    background-color: #ede3ff;
+    background-color: #14e0ebae;
     color: black;
     border: none;
 }
