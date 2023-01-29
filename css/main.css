@@ -78,6 +78,7 @@ footer {
     max-width: 30%;
     float: left;    
     margin: 0 30px 0 30px;
+    border-radius: 4px;
 }
 
 .resumeBttnTxt, .resumeBttnTxt:hover{
@@ -96,7 +97,7 @@ footer {
     border-radius: 4px;
 }
 .resumeButton:hover {
-    background-color: #14e0eb80;
+    background-color: #14e0eb54;
     color: black;
     border: none;
 }
