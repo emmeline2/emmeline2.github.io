@@ -1,11 +1,13 @@
-header{
-    background-color: white;
-}
 body {
     margin: 60px auto;
     width: 70%;
     background-color: #BFD8D2;
 }
+
+header{
+    background-color: white;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -28,7 +30,7 @@ nav ul li:hover, footer ul li:hover {
 }
 a {
     text-decoration: none;
-    color: black;
+    color: darkslategrey;
 }
 a:hover {
     text-decoration: underline;
@@ -41,7 +43,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: black;
+    color: darkslategrey;
 }
 footer {
     border-top: 1px solid #DF744A;
@@ -57,7 +59,7 @@ footer {
 .resumeButton {
     background-color: white;
     border: none;
-    color: black;
+    color: darkslategrey;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -67,7 +69,7 @@ footer {
 }
 .resumeButton:hover {
     background-color: #DCB239;
-    color: black;
+    color: darkslategrey;
     border: none;
 }
 
