@@ -99,3 +99,9 @@ footer {
     border: 1px solid #14e0eb;
 }
 
+.logo{
+    height: auto;
+    max-width: 50%;
+    margin: 0 5px 0 5px;
+}
+
