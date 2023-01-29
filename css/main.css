@@ -51,6 +51,11 @@ p {
     line-height: 1.4em;
     color: white;
 }
+
+.container{
+    padding-bottom: 10px ;
+}
+
 footer {
     background-color: #020131;
     font-size: .8em;
