@@ -47,9 +47,9 @@ footer {
     background-color: #020131;
     font-size: .8em;
     border-top: 1px solid #b08f26;
-    margin-top: -50px;
-    /* negative value of footer height */
-    height: 50px;
+    position:fixed;
+    bottom:0;
+    left:0;
 }
 
 .portrait {
