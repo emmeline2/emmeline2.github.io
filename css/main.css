@@ -34,15 +34,17 @@ a:hover {
     text-decoration: underline;
     color: #14e0eb;
 }
-.topnav-right, .resumeNavTxt {
+.topnav-right{
     float: right;
     border: 1px solid #b08f26;
     padding: 4px;
-    color: #b08f26;
     border-radius: 4px;
 }
 .topnav-right:hover{
     background-color: #b0902688;
+}
+.resumeNavTxt, .resumeNavTxt:hover{
+    color: #b08f26;
 }
 
 h1 {
