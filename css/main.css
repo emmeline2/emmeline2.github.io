@@ -1,6 +1,6 @@
 body {
     margin: 20px auto;
-    width: 70%;
+    width: 100%;
     background-color: #020131;
     color: white;
     min-height: 100vh;
@@ -45,6 +45,7 @@ a:hover {
 }
 .resumeNavTxt, .resumeNavTxt:hover{
     color: #b08f26;
+    text-decoration: none;
 }
 
 h1 {
