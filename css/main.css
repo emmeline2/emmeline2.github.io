@@ -3,6 +3,8 @@ body {
     width: 70%;
     background-color: #020131;
     color: white;
+    min-height: 100vh;
+    position: relative;
 }
 
 header{
@@ -51,7 +53,7 @@ footer {
     background-color: #020131;
     font-size: .8em;
     border-top: 1px solid #b08f26;
-    position:fixed;
+    position: absolute;
     bottom:0;
     left:10;
 }
