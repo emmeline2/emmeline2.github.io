@@ -98,7 +98,8 @@ footer {
     color: black;
     border: 1px solid #14e0eb;
 }
-.td h2{
+
+.sectionHeader{
     vertical-align: top;
     color: #14e0eb;
 }
