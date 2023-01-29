@@ -93,9 +93,10 @@ footer {
     display: inline-block;
     font-size: 16px;
     transition-duration: 0.4s;
+    border-radius: 4px;
 }
 .resumeButton:hover {
-    background-color: #14e0ebae;
+    background-color: #14e0eb80;
     color: black;
     border: none;
 }
