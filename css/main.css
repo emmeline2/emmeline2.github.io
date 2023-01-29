@@ -40,7 +40,7 @@ a:hover {
     padding: 4px;
 }
 .topnav-right:hover{
-    background-color: #B19CD8;
+    background-color: #ede3ff;
 }
 
 h1 {
@@ -92,7 +92,7 @@ footer {
     transition-duration: 0.4s;
 }
 .resumeButton:hover {
-    background-color: #B19CD8;
+    background-color: #ede3ff;
     color: black;
     border: none;
 }
