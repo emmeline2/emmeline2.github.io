@@ -44,18 +44,9 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
-}
-
 .portrait {
     height: auto;
-    max-width: 40%;
+    max-width: 30%;
 }
 
 .resumeButtonText{
