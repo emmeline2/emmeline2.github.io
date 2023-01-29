@@ -41,7 +41,7 @@ a:hover {
     border-radius: 4px;
 }
 .topnav-right:hover{
-    background-color: #b0902688;
+    background-color: #b0902642;
 }
 .resumeNavTxt, .resumeNavTxt:hover{
     color: #b08f26;
@@ -97,7 +97,7 @@ footer {
     border-radius: 4px;
 }
 .resumeButton:hover {
-    background-color: #14e0eb54;
+    background-color: #14e0eb3b;
     color: black;
     border: none;
 }
