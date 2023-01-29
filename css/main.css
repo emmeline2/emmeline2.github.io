@@ -21,9 +21,7 @@ nav ul li, footer ul li {
 footer{
     background-color: white;
 }
-footer ul li {
-    color: #DF744A;
-}
+
 nav ul li:hover, footer ul li:hover {
     background-color:#B0E0E6;
     color: white;
