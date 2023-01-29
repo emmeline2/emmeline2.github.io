@@ -8,10 +8,11 @@ body {
 header{
     margin-top: 0;
     background-color: #020131;
-    border-bottom: 1px solid #b08f26;
-    top:0;
-    right:10;
 }
+
+.topnav-right {
+    float: right;
+  }
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
