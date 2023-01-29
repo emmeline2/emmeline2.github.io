@@ -15,7 +15,7 @@ header{
 .topnav-right {
     float: right;
     border: 1px solid #b08f26;
-    padding: 1px;
+    padding: 5px;
 }
 
 nav ul, footer ul {
