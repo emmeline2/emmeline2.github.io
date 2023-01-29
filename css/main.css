@@ -16,8 +16,7 @@ a {
     color: #14e0eb;
 }
 a:hover {
-    background-color: #14e0eb3b;
-    color: #14e0eb;
+    color: #14e0eb3b;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
