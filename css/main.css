@@ -11,7 +11,14 @@ header{
     margin-top: 0;
     background-color: #020131;
 }
-
+a {
+    text-decoration: none;
+    color: #14e0eb;
+}
+a:hover {
+    text-decoration: underline;
+    color: #14e0eb;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -26,14 +33,6 @@ nav ul li:hover, footer ul li:hover {
     text-decoration: none;
     background-color: #14e0eb3b;
     color: white;
-}
-a {
-    text-decoration: none;
-    color: #14e0eb;
-}
-a:hover {
-    text-decoration: underline;
-    color: #14e0eb;
 }
 .topnav-right{
     float: right;
