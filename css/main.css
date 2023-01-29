@@ -37,7 +37,7 @@ a:hover {
 .topnav-right{
     float: right;
     border: 1px solid #b08f26;
-    padding: 4px;
+    padding: 5px 10px;
     border-radius: 4px;
 }
 .topnav-right:hover{
