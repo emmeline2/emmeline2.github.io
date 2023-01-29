@@ -38,9 +38,10 @@ a:hover {
     float: right;
     border: 1px solid #b08f26;
     padding: 4px;
+    color: #b08f26;
 }
 .topnav-right:hover{
-    background-color: #ede3ff;
+    background-color: #b0902688;
 }
 
 h1 {
