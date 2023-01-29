@@ -55,6 +55,10 @@ footer {
     max-width: 30%;
 }
 
+.resumeBttnTxt{
+    color: black;
+}
+
 .resumeButton {
     background-color: #14e0eb;
     border: none;
