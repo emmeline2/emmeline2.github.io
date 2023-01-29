@@ -34,7 +34,7 @@ a:hover {
     text-decoration: underline;
     color: #14e0eb;
 }
-.topnav-right {
+.topnav-right, .resumeNavTxt {
     float: right;
     border: 1px solid #b08f26;
     padding: 4px;
