@@ -104,16 +104,20 @@ footer {
     margin-bottom: 10%;
 }
 
+.row{
+    display: table;
+}
 
 .leftCol {
 width: 25%;
 float: left;
+display: table-cell;
 }
 
 .rightCol, .rightCol p {
 width: 75%;
 float: right;
-display:block;
+display: table-cell;
 }
   
 @media only screen and (max-width: 800px) {
