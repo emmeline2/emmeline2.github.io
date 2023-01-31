@@ -14,24 +14,22 @@ a:hover {
     color: #14e0eb3b;
 }
 
-nav ul, footer ul {
-    list-style: none;
-    font-weight: bold;
-}
 nav ul li, footer ul li {
-    display: inline;
     margin-right: 20px;
 }
+
 nav ul li:hover, footer ul li:hover {
     text-decoration: none;
     color: white;
 }
+
 .topnav-right{
     float: right;
     border: 1px solid #b08f26;
-    padding: 5px 10px;
+    padding: 5px 10px 5px 0px;
     border-radius: 4px;
 }
+
 .topnav-right:hover{
     background-color: #b0902642;
 }
@@ -48,9 +46,6 @@ p {
     font-weight: 300;
 }
 
-.introPic{
-    width: 75%;
-}
 
 footer {
     border-top: 1px solid #b08f26;
