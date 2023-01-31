@@ -1,20 +1,16 @@
 body {
-    margin: 20px auto;
-    width: 90%;
     background-color: #020131;
     color: white;
     min-height: 100vh;
-    position: relative;
     font-family: Apercu,"Source Sans Pro",system,system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;
     font-size: 1vw;
 }
 
 header{
     margin-top: 0;
-    background-color: #020131;
 }
+
 a {
-    text-decoration: none;
     color: #14e0eb;
 }
 a:hover {
@@ -52,7 +48,6 @@ h1 {
     text-align: center;
 }
 p {
-    line-height: 1.4em;
     color: white;
     font-weight: 300;
     font-size: 2vw; /*1rem*/
@@ -103,14 +98,6 @@ footer {
 .sectionHeader{
     vertical-align: top;
     color: #14e0eb;
-}
-
-.intro{
-    margin-top: 10%;
-    margin-bottom: 20%;
-    margin-left: 10%;
-    margin-right: 10%;
-    text-align: center;
 }
 
 .backgroundSection{
