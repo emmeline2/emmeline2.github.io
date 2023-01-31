@@ -13,6 +13,7 @@ a {
 a:hover {
     color: #14e0eb3b;
 }
+
 nav ul, footer ul {
     list-style: none;
     font-weight: bold;
