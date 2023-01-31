@@ -46,7 +46,7 @@ nav ul li:hover, footer ul li:hover {
     text-decoration: none;
 }
 h1 {
-    font-size: 3em;
+    font-size: 6vw; /*3em*/
     color: white;
     text-align: center;
 }
@@ -54,7 +54,7 @@ p {
     line-height: 1.4em;
     color: white;
     font-weight: 300;
-    font-size: 1rem;
+    font-size: 2vw; /*1rem*/
 }
 
 .container{
@@ -63,7 +63,7 @@ p {
 
 footer {
     background-color: #020131;
-    font-size: 1em;
+    font-size: 6vw; /*1em*/
     border-top: 1px solid #b08f26;
     position: absolute;
     bottom: 0;
@@ -90,7 +90,7 @@ footer {
     padding: 10px 22px;
     text-align: center;
     display: inline-block;
-    font-size: 16px;
+    font-size: 3vw; /*16px*/
     border-radius: 4px;
 }
 .resumeButton:hover {
