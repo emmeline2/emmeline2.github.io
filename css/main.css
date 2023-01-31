@@ -49,11 +49,12 @@ p {
 }
 
 .introPic{
-    width: 100%;
+    width: 75%;
 }
 
 footer {
     border-top: 1px solid #b08f26;
+    padding-top: 5px;
 }
 
 .resumeBttnTxt, .resumeBttnTxt:hover{
