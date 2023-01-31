@@ -14,14 +14,6 @@ a:hover {
     color: #14e0eb3b;
 }
 
-nav ul li, footer ul li {
-    margin-right: 20px;
-}
-
-nav ul li:hover, footer ul li:hover {
-    text-decoration: none;
-    color: white;
-}
 
 .topnav-right{
     float: right;
@@ -54,8 +46,11 @@ p {
 .navbar-default{
     background-color: #020131 !important;
     border-color: transparent;
-    color: white;
-  }
+    color: #b08f26 !important;
+}
+.navbar-default:hover{
+    color: #b0902642 !important;
+}
 
 
 footer {
