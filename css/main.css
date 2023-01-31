@@ -1,15 +1,8 @@
 body {
     background-color: #020131;
     color: white;
-    min-height: 100vh;
-    font-family: Apercu,"Source Sans Pro",system,system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;
-    font-size: 1vw;
+    font-family: Apercu,"Source Sans Pro",system,system-ui,Helvetica,Arial,sans-serif;
 }
-
-header{
-    margin-top: 0;
-}
-
 a {
     color: #14e0eb;
 }
@@ -17,7 +10,6 @@ a:hover {
     color: #14e0eb3b;
 }
 nav ul, footer ul {
-    padding: 0px;
     list-style: none;
     font-weight: bold;
 }
@@ -52,27 +44,12 @@ p {
     font-weight: 300;
     font-size: 2vw; /*1rem*/
 }
-
-.container{
-    padding-bottom: 2.5rem ;
+.introPic{
+    width: 50%;
 }
 
 footer {
-    background-color: #020131;
-    font-size: 1.5vw; /*1em*/
     border-top: 1px solid #b08f26;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 2.5rem;  
-}
-
-.portrait {
-    height: auto;
-    max-width: 30%;
-    float: right;    
-    margin: 20px 20px 10px 10px;
-    border-radius: 4px;
 }
 
 .resumeBttnTxt, .resumeBttnTxt:hover{
