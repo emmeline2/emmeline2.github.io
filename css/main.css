@@ -52,8 +52,9 @@ p {
     height: auto;
 }
 .navbar-default{
-    background-color: #020131;
+    background-color: #020131 !important;
     border-color: transparent;
+    color: white;
   }
 
 
@@ -61,6 +62,17 @@ footer {
     border-top: 1px solid #b08f26;
     padding-top: 5px;
 }
+
+footer ul {
+    padding: 0px;
+    list-style: none;
+    display: inline;
+}
+footer ul li:hover {
+    text-decoration: none;
+    color: white;
+}
+
 
 .resumeBttnTxt, .resumeBttnTxt:hover{
     color: #14e0eb;
