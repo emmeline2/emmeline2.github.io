@@ -45,7 +45,6 @@ p {
 }
 .navbar-default{
     background-color: #020131 !important;
-    border-color: transparent;
     color: #b08f26 !important;
 }
 .navbar-default:hover{
