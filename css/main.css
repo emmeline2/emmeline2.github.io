@@ -6,6 +6,7 @@ body {
     min-height: 100vh;
     position: relative;
     font-family: Apercu,"Source Sans Pro",system,system-ui,-apple-system,BlinkMacSystemFont,Roboto,Helvetica,Arial,sans-serif;
+    font-size: 1vw;
 }
 
 header{
@@ -46,7 +47,7 @@ nav ul li:hover, footer ul li:hover {
     text-decoration: none;
 }
 h1 {
-    font-size: 6vw; /*3em*/
+    font-size: 4vw; /*3em*/
     color: white;
     text-align: center;
 }
@@ -54,7 +55,7 @@ p {
     line-height: 1.4em;
     color: white;
     font-weight: 300;
-    font-size: 2vw; /*1rem*/
+    font-size: 1vw; /*1rem*/
 }
 
 .container{
@@ -63,7 +64,7 @@ p {
 
 footer {
     background-color: #020131;
-    font-size: 6vw; /*1em*/
+    font-size: 1vw; /*1em*/
     border-top: 1px solid #b08f26;
     position: absolute;
     bottom: 0;
@@ -90,7 +91,7 @@ footer {
     padding: 10px 22px;
     text-align: center;
     display: inline-block;
-    font-size: 3vw; /*16px*/
+    font-size: 2vw;
     border-radius: 4px;
 }
 .resumeButton:hover {
