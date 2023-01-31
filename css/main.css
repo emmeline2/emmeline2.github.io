@@ -39,17 +39,16 @@ nav ul li:hover, footer ul li:hover {
     text-decoration: none;
 }
 h1 {
-    font-size: 4vw; /*3em*/
     color: white;
     text-align: center;
 }
 p {
     color: white;
     font-weight: 300;
-    font-size: 2vw; /*1rem*/
 }
+
 .introPic{
-    width: 25%;
+    width: 100%;
 }
 
 footer {
@@ -67,7 +66,6 @@ footer {
     padding: 10px 22px;
     text-align: center;
     display: inline-block;
-    font-size: 2vw;
     border-radius: 4px;
 }
 .resumeButton:hover {
