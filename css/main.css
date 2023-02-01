@@ -86,15 +86,18 @@ footer ul li:hover {
 
 
 /*Language Cubes*/
-.languageCube, .languageCube p{
+.languageCube{
     border: 1px solid #14e0eb;
-    padding: 5px 10px;
+    padding: 4px 8px;
     text-align: center;
     display: inline-block;
     border-radius: 4px;
-    color: #14e0eb;
-    text-decoration: none;
 }
+.languageCube p{
+    color: #14e0eb;
+    text-decoration: none; 
+}
+
 
 /*Column Header Title*/
 .sectionHeader{
