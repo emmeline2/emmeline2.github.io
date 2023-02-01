@@ -3,6 +3,7 @@ body {
     color: white;
     font-family: Apercu,"Source Sans Pro",system,system-ui,Helvetica,Arial,sans-serif;
 }
+
 .jumbotron {
     background-color: #020131;
     color: white;
@@ -26,8 +27,11 @@ p {
     max-width: 250px;
     height: auto;
 }
+
+/*Top Nav Bar*/
 .navbar{
     margin-bottom: 0;
+    padding-right: 10%;
     background-color: #020131 !important;
     border: 0;
     color: #b08f26 !important;
@@ -44,16 +48,15 @@ p {
     color: #b08f26 !important;
 }
 
-
+/* Footer */
 footer {
     border-top: 1px solid #b08f26;
     padding-top: 5px;
 }
-
-footer ul {
+footer ul li {
     padding: 0px;
     list-style: none;
-    display: inline-block;
+    display: inline;
 }
 footer ul li:hover {
     text-decoration: none;
@@ -61,11 +64,11 @@ footer ul li:hover {
 }
 
 
+/*Resume Download Button*/
 .resumeBttnTxt, .resumeBttnTxt:hover{
     color: #14e0eb;
     text-decoration: none;
 }
-
 .resumeButton {
     background-color: None;
     border: 1px solid #14e0eb;
@@ -80,6 +83,7 @@ footer ul li:hover {
     border: 1px solid #14e0eb;
 }
 
+/*Column Header Title*/
 .sectionHeader{
     vertical-align: top;
     color: #14e0eb;
