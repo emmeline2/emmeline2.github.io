@@ -110,10 +110,13 @@ footer ul li:hover {
     border: 1px solid #14e0eb;
     text-align: center;
     border-radius: 4px;
-    padding: 1px;
+    padding: 2px 7px;
     color: #14e0eb;
-    text-decoration: none; 
+    text-decoration: none;
+    display: inline-block;
+    margin: 3px 3px 3px 0;
 }
+
 /*
 .languageCube p{
     color: #14e0eb;
