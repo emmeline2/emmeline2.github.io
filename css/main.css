@@ -13,22 +13,6 @@ a {
 a:hover {
     color: #14e0eb3b;
 }
-
-
-.topnav-right{
-    float: right;
-    border: 1px solid #b08f26;
-    padding: 5px 10px 5px 0px;
-    border-radius: 4px;
-}
-
-.topnav-right:hover{
-    background-color: #b0902642;
-}
-.resumeNavTxt, .resumeNavTxt:hover{
-    color: #b08f26;
-    text-decoration: none;
-}
 h1 {
     color: white;
     text-align: center;
@@ -99,5 +83,6 @@ footer ul li:hover {
 .sectionHeader{
     vertical-align: top;
     color: #14e0eb;
+    font-weight:normal;
 }
 
