@@ -52,12 +52,12 @@ p {
 footer {
     border-top: 1px solid #b08f26;
     padding-top: 5px;
+    line-height: 1.428;
 }
 footer ul li {
     padding: 0px;
     list-style: none;
     display: inline;
-    line-height: 20px;
 }
 footer ul li:hover {
     text-decoration: none;
