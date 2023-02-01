@@ -58,6 +58,13 @@ footer {
     padding: 10px;
     list-style: none;
     display: inline;
+    text-decoration: none;
+}
+footer ul li{
+    padding: 10px;
+    list-style: none;
+    display: inline;
+    text-decoration: none;
 }
 footer ul li:hover {
     text-decoration: none;
@@ -88,7 +95,6 @@ footer ul li:hover {
 /*Language Cubes*/
 .languageCube{
     border: 1px solid #14e0eb;
-    padding: 5px;
     text-align: center;
     display: inline-block;
     border-radius: 4px;
