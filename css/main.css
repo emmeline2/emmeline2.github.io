@@ -66,7 +66,7 @@ footer ul li:hover {
 
 
 /*Resume Download Button*/
-.resumeBttnTxt, .resumeBttnTxt:hover{
+.emailBttnTxt, .emailBttnTxt:hover{
     color: #14e0eb;
     text-decoration: none;
 }
@@ -82,6 +82,18 @@ footer ul li:hover {
     background-color: #14e0eb3b;
     color: black;
     border: 1px solid #14e0eb;
+}
+
+
+/*Language Cubes*/
+.languageCube, .languageCube p{
+    border: 1px solid #14e0eb;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 4px;
+    color: #14e0eb;
+    text-decoration: none;
 }
 
 /*Column Header Title*/
