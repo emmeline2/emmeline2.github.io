@@ -43,12 +43,22 @@ p {
     max-width: 250px;
     height: auto;
 }
-.navbar-default{
+.navbar{
+    margin-bottom: 0;
     background-color: #020131 !important;
+    border: 0;
     color: #b08f26 !important;
 }
-.navbar-default:hover{
+.navbar li a, .navbar .navbar-brand {
+    color: #b08f26 !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
     color: #b0902642 !important;
+    background-color: #020131 !important;
+}
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #b08f26 !important;
 }
 
 
