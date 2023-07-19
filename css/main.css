@@ -1,12 +1,12 @@
 body {
-    background-color: #020131;
-    color: white;
+    background-color: #020131 !important;
+    color: white !important;
     font-family: Apercu,"Source Sans Pro",system,system-ui,Helvetica,Arial,sans-serif;
 }
 
 .light-mode {
-    background-color: white;
-    color: #020131;
+    background-color: white !important;
+    color: #020131 !important;
 }
 
 .jumbotron {
