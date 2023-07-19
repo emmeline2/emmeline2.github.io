@@ -140,7 +140,7 @@ footer ul li:hover {
     position: relative;
     display: inline-block;
     width: 60px;
-    height: 28px;
+    height: 34px;
 }
 
 /* Hide default HTML checkbox */
@@ -175,11 +175,11 @@ footer ul li:hover {
 }
 
 input:checked + .slider {
-    background-color: #2196F3;
+    background-color: #020131;
 }
 
 input:focus + .slider {
-    box-shadow: 0 0 1px #2196F3;
+    box-shadow: 0 0 1px #020131;
 }
 
 input:checked + .slider:before {
