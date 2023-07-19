@@ -7,11 +7,9 @@ body {
 .light-mode {
     background-color: white;
     color: #020131;
-    font-family: Apercu,"Source Sans Pro",system,system-ui,Helvetica,Arial,sans-serif;
 }
 
 .jumbotron {
-    background-color: #020131;
     color: white;
     margin-top: 10%;
     margin-bottom: 10%;
@@ -55,7 +53,7 @@ p {
 .navbar{
     margin-bottom: 0;
     padding-right: 5%;
-    background-color: #020131 !important;
+    /*background-color: #020131 !important; */
     border: 0;
     color: #b08f26 !important;
 }
@@ -64,7 +62,7 @@ p {
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
     color: #b0902642 !important;
-    background-color: #020131 !important;
+    /*background-color: #020131 !important; */
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
@@ -129,14 +127,6 @@ footer ul li:hover {
     display: inline-block;
     margin: 3px 3px 3px 0;
 }
-
-/*
-.languageCube p{
-    color: #14e0eb;
-    text-decoration: none; 
-}
-*/
-
 
 /*Column Header Title*/
 .sectionHeader{
