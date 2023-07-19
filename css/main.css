@@ -152,7 +152,7 @@ footer ul li:hover {
 .slider {
     position: absolute;
     cursor: pointer;
-    top: 10;
+    top: -5;
     left: 0;
     right: 0;
     bottom: 0;
