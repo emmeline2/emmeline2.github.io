@@ -54,7 +54,7 @@ p {
 .navbar{
     margin-bottom: 0;
     padding-right: 5%;
-    /*background-color: #020131 !important; */
+    background-color: #020131 !important;
     border: 0;
     color: #b08f26 !important;
 }
@@ -63,7 +63,7 @@ p {
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
     color: #b0902642 !important;
-    /*background-color: #020131 !important; */
+    background-color: #020131;
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
