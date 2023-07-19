@@ -5,20 +5,20 @@ body {
     font-size: 25px;
 }
 
-.dark-mode {
+.light-mode {
     background-color: #020131;
     color: white;
     font-family: Apercu,"Source Sans Pro",system,system-ui,Helvetica,Arial,sans-serif;
 }
 
-/*
+
 .jumbotron {
     background-color: #020131;
     color: white;
     margin-top: 10%;
     margin-bottom: 10%;
 }
-*/
+
 .aboutSection{
     margin-top: 10%;
     margin-bottom: 10%;
