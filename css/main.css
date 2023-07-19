@@ -130,7 +130,7 @@ footer ul li:hover {
 /*Column Header Title*/
 .sectionHeader{
     vertical-align: top;
-    color: #14e0eb;
+    color: #020131;
     font-weight:normal;
 }
 
@@ -138,8 +138,8 @@ footer ul li:hover {
 .switch {
     position: relative;
     display: inline-block;
-    width: 60px;
-    height: 34px;
+    width: 50px;
+    height: 28px;
 }
 
 /* Hide default HTML checkbox */
@@ -152,7 +152,7 @@ footer ul li:hover {
 .slider {
     position: absolute;
     cursor: pointer;
-    top: 0;
+    top: 10;
     left: 0;
     right: 0;
     bottom: 0;
