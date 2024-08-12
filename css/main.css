@@ -50,7 +50,11 @@ p {
     color: #4F5C4B;
     border: 0;
 }
-.navbar li a, .navbar .navbar-brand {
+.navbar-header .navbar-brand {
+    float: left;
+    color: white;
+}
+.navbar li a, .navbar {
     color: #4F5C4B;
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
