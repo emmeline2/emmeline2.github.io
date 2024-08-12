@@ -9,6 +9,8 @@ body {
     color: #4F5C4B;
     margin-top: 10%;
     margin-bottom: 10%;
+    position: relative;
+    overflow: hidden;
 }
 
 .projectsSection{
@@ -97,6 +99,14 @@ footer ul li:hover {
     height: 100%;
     object-fit: contain;
 }
+
+.center-section {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 3;
+  }
 
 .resume{
     margin: 5%;
