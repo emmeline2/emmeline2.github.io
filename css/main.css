@@ -78,12 +78,18 @@ footer {
     background-color: #4F5C4B;
     padding-top: 5px;
     line-height: 1.428;
+    padding-bottom: 5px;
+    margin-top: 0;
 }
 .footerul {
     padding: 10px;
     list-style: none;
     display: inline;
     text-decoration: none;
+}
+footer ul {
+    padding: 0;
+    margin: 0;
 }
 footer ul li{
     padding: 10px;
