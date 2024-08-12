@@ -114,12 +114,32 @@ footer ul li:hover {
     object-fit: contain;
 }
 
+.left-section{ 
+    z-index: 1;
+    float: left;
+    width: 50%;
+    text-align: center;
+    position: relative;
+}
+.right-section {
+    z-index: 1;
+    float: right;
+    width: 50%;
+    position: relative;
+    display: flex;
+    align-items: center; /* Vertically center */
+    justify-content: center; /* Horizontally center */
+}
 .center-section {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 3;
+}
+.content-wrapper {
+    display: flex;
+    width: 100%;
 }
 
 .resume{
