@@ -150,6 +150,10 @@ footer ul li:hover {
     margin: 5%;
 }
 
+.yellow-background{
+    background-color: #EBE8D4;
+}
+
 /*Resume Download Button*/
 .emailBttnTxt, .emailBttnTxt:hover{
     background-color: #4F5C4B;
