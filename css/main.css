@@ -83,6 +83,10 @@ footer ul li:hover {
     color: white;
 }
 
+.left-text{
+    text-align: left;
+}
+
 .resume{
     margin: 5%;
 }
