@@ -87,6 +87,11 @@ footer ul li:hover {
     text-align: left;
 }
 
+.mountain_img {
+    width: 100%;
+    height: 100%;
+}
+
 .resume{
     margin: 5%;
 }
