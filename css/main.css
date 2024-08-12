@@ -90,6 +90,7 @@ footer ul li:hover {
 
 .left-text{
     text-align: left;
+    display: inline-block; 
 }
 
 .mountain_img {
