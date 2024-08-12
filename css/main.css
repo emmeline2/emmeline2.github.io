@@ -72,6 +72,9 @@ p {
     color: #4F5C4B;
 }
 
+.top-header{
+    margin-bottom: 0;
+}
 
 /* Footer */
 footer {
@@ -113,13 +116,13 @@ footer ul li:hover {
     max-height: 100%;
     object-fit: contain;
 }
-
 .left-section{ 
     z-index: 1;
     float: left;
     width: 50%;
     text-align: center;
     position: relative;
+    align-items: center; /* Vertically center */
 }
 .right-section {
     z-index: 1;
