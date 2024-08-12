@@ -111,11 +111,11 @@ footer ul li:hover {
 
 .center-section {
     position: absolute;
-    top: 0;
+    top: 50%;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translate(-50%, -50%);
     z-index: 3;
-  }
+}
 
 .resume{
     margin: 5%;
