@@ -7,8 +7,6 @@ body {
 .jumbotron {
     background-color: #EBE8D4;
     color: #4F5C4B;
-    margin-top: 10%;
-    margin-bottom: 10%;
     position: relative;
     overflow: hidden;
 }
