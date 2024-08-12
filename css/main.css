@@ -58,12 +58,15 @@ p {
 .navbar-header .navbar-brand {
     float: left;
     color: white;
+    align-items: center; /* vertical alignment */
 }
 .navbar li a, .navbar {
     color: #4F5C4B;
+    padding: 15px; 
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
     color: #768672;
+    align-items: center; /*vertical alignment */
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
