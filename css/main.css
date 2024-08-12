@@ -129,7 +129,7 @@ footer ul li:hover {
     display: flex;
     align-items: center; /* Vertically center */
     justify-content: center; /* Horizontally center */
-    max-height: 85vh;
+    max-height: 100vh;
 }
 .center-section {
     position: absolute;
