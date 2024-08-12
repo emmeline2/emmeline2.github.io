@@ -44,25 +44,24 @@ p {
 .navbar{
     margin-bottom: 0;
     padding-right: 5%;
-    background-color: #4F5C4B;
+    background-color: white;
+    color: #4F5C4B;
     border: 0;
-    color: white !important;
 }
 .navbar li a, .navbar .navbar-brand {
-    color: white !important;
+    color: #4F5C4B !important;
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
     color: #768672 !important;
-    background-color: #4F5C4B;
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
-    color: white !important;
+    color: #4F5C4B !important;
 }
 
-.second-nav-bar{
-    background-color: white;
-    color: #4F5C4B;
+.links-nav-bar{
+    background-color: 4F5C4B;
+    color: white;
 }
 
 /* Footer */
