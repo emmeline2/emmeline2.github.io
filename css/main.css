@@ -62,7 +62,6 @@ p {
 }
 .navbar li a, .navbar {
     color: #4F5C4B;
-    padding: 15px; 
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
     color: #768672;
