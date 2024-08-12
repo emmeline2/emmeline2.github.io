@@ -16,10 +16,10 @@ body {
 .projectsSection{
     background-color: whitesmoke;
     color: #4F5C4B;
-    margin-top: 10%;
-    margin-bottom: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%;
     font-size: 14px;
-    margin-right: 10%;
+    padding-right: 10%;
 }
 
 a {
@@ -181,6 +181,6 @@ footer ul li:hover {
 /*Column Header Title*/
 .sectionHeader{
     vertical-align: top;
-    color: white;
+    color: #4F5C4B;
     font-weight:normal;
 }
