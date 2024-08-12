@@ -49,18 +49,18 @@ p {
     border: 0;
 }
 .navbar li a, .navbar .navbar-brand {
-    color: #4F5C4B !important;
+    color: #4F5C4B;
 }
 .navbar-nav li a:hover, .navbar-nav li.active a {
-    color: #768672 !important;
+    color: #768672;
 }
 .navbar-default .navbar-toggle {
     border-color: transparent;
-    color: #4F5C4B !important;
+    color: #4F5C4B;
 }
 
 .links-nav-bar{
-    background-color: 4F5C4B;
+    background-color: #4F5C4B;
     color: white;
 }
 
