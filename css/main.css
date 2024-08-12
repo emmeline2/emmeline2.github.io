@@ -43,6 +43,11 @@ p {
 }
 
 /*Top Nav Bar*/
+.links-nav-bar{
+    background-color: #4F5C4B;
+    color: white;
+}
+
 .navbar{
     margin-bottom: 0;
     padding-right: 5%;
@@ -65,10 +70,6 @@ p {
     color: #4F5C4B;
 }
 
-.links-nav-bar{
-    background-color: #4F5C4B;
-    color: white;
-}
 
 /* Footer */
 footer {
