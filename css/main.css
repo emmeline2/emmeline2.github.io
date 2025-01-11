@@ -200,6 +200,10 @@ footer ul li:hover {
     border-radius: 4px;
 }
 
+.download-button-text{
+    color: #4F5C4B;
+}
+
 .download-resume-button:hover {
     background-color: #768672;
     color: #4F5C4B;
