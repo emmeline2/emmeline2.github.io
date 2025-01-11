@@ -55,6 +55,7 @@ p {
     align-items: center;
     min-height: 0px;
     display: flex;
+    border-radius: 0px;
 }
 
 .navbar-icons{
