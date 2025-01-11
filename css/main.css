@@ -52,8 +52,10 @@ p {
     background-color: white;
     color: #4F5C4B;
     border: 0;
-    display: flex;
     align-items: center;
+    min-height: 0px;
+    display: block;
+    text-align: right;
 }
 
 .navbar-nav {
