@@ -209,6 +209,22 @@ footer ul li:hover {
     color: #4F5C4B;
 }
 
+.github-button{
+    background-color: white;
+    padding: 10px 22px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 6px;
+    border: thin solid #4F5C4B;
+}
+.github-button-text{
+    color: #4F5C4B;
+}
+.github-button:hover {
+    background-color: #768672;
+}
+
+
 
 /*Language Cubes*/
 .languageCube{
