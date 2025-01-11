@@ -191,6 +191,20 @@ footer ul li:hover {
     color: rgb(178, 175, 175);
 }
 
+.download-resume-button{
+    background-color: #EBE8D4;
+    color: #4F5C4B;
+    padding: 10px 22px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.download-resume-button:hover {
+    background-color: #768672;
+    color: #4F5C4B;
+}
+
 
 /*Language Cubes*/
 .languageCube{
